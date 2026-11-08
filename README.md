@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Rishav</h1>
-<h3 align="center">GenAI Engineer building multi-agent systems, RAG pipelines, and voice AI</h3>
+<h3 align="center">Full Stack Developer — React.js · Node.js · REST APIs · TypeScript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Navneet-Rishav&label=Profile%20views&color=0e75b6&style=flat" alt="Navneet-Rishav profile views" />
@@ -7,12 +7,12 @@
   <a href="https://its-navneetrishav.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-1C1C1C?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-- 🔭 Currently a **GenAI Engineer @ EXL Service**, building production AI systems — multi-agent orchestration, RAG, and voice AI
-- 🎙️ Building **TalentAgent**, an AI voice HR interviewer & candidate screening platform (LangGraph, FastAPI, Pydantic, Presidio, Vapi AI)
-- 🧱 Also shipped **Nestora**, a full-stack society management platform (FastAPI + React/TypeScript)
-- 🌱 Running a public 2026 build ladder — five projects, five specific skills (see below)
+- 🧑‍💻 Full stack developer: REST API design, JWT auth and role-based access, validation, tests and deployment, with React.js on the front end
+- 🔭 **Reporting Analyst, GenAI engineering team @ EXL Service**: I build backend REST services and real-time integrations for an AI product
+- 🎓 B.Tech, Information Technology, Lovely Professional University (2019–2023)
+- 🌱 Building three full-stack AI projects in public (see below)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/navneet-rishav-4a80b2192) or through my [Portfolio](https://its-navneetrishav.netlify.app)
-- ⚡ Fun fact: every project below ships from zero to a live, working demo
+- ⚡ The bar for each project below: a live demo, tests, CI and a README you can read in 30 seconds
 
 ### Connect with me
 
@@ -28,9 +28,10 @@
 ### Languages and Tools
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -57,14 +58,14 @@
 <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNavneet-Rishav&style=flat&logo=github" alt="Public repos"/>
 </p>
 
-### 2026 Build-in-Public Ladder
+### What I'm building
 
-Five projects, five specific skills:
-
-| # | Project | Proves | Status |
+| Project | What it does | Stack | Status |
 |---|---|---|---|
-| 01 | Support Escalation Mesh | Agent Orchestration | 🟢 in progress |
-| 02 | Agent Eval Harness | Evals and Observability | ⏳ queued |
-| 03 | Grounded Document Q&A | Vector Search / RAG | ⏳ queued |
-| 04 | Private Document Intelligence | Open-Weight Models + PII | ⏳ queued |
-| 05 | Voice Booking Agent | Voice AI | ⏳ queued |
+| **Support Escalation Mesh** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | 🛠️ In progress |
+| **Kaagaz (कागज़)** | Hindi/English document assistant: upload, field extraction, PII masking and Q&A with page citations | FastAPI · React · Postgres · Sarvam AI | ⏳ Planned |
+| **Bolo (बोलो)** | Hinglish voice receptionist for clinics: book, reschedule or cancel appointments by voice | FastAPI · LangGraph · React · Sarvam STT/TTS | ⏳ Planned |
+
+### Live now
+
+- **[NutriCraft](https://navneet-rishav.github.io/NutriCraft/)**: AI weekly meal planner on the Gemini API, bring-your-own-key and fully client-side ([code](https://github.com/Navneet-Rishav/NutriCraft))
