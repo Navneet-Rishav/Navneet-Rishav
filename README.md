@@ -62,7 +62,7 @@
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **Support Escalation Mesh** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | 🛠️ In progress |
+| **[Support Escalation Mesh](https://github.com/Navneet-Rishav/support-escalation-mesh)** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | 🛠️ In progress |
 | **Kaagaz (कागज़)** | Hindi/English document assistant: upload, field extraction, PII masking and Q&A with page citations | FastAPI · React · Postgres · Sarvam AI | ⏳ Planned |
 | **Bolo (बोलो)** | Hinglish voice receptionist for clinics: book, reschedule or cancel appointments by voice | FastAPI · LangGraph · React · Sarvam STT/TTS | ⏳ Planned |
 
