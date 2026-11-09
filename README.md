@@ -62,10 +62,11 @@
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **[Support Escalation Mesh](https://github.com/Navneet-Rishav/support-escalation-mesh)** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | 🛠️ In progress |
+| **[Support Escalation Mesh](https://github.com/Navneet-Rishav/support-escalation-mesh)** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | ✅ [Live demo](https://support-escalation-mesh.vercel.app) |
 | **Kaagaz (कागज़)** | Hindi/English document assistant: upload, field extraction, PII masking and Q&A with page citations | FastAPI · React · Postgres · Sarvam AI | ⏳ Planned |
 | **Bolo (बोलो)** | Hinglish voice receptionist for clinics: book, reschedule or cancel appointments by voice | FastAPI · LangGraph · React · Sarvam STT/TTS | ⏳ Planned |
 
 ### Live now
 
+- **[Support Escalation Mesh](https://support-escalation-mesh.vercel.app)**: MERN support desk with JWT + role-based access, a React agent console and AI triage behind code guardrails; one-click demo login ([code](https://github.com/Navneet-Rishav/support-escalation-mesh))
 - **[NutriCraft](https://navneet-rishav.github.io/NutriCraft/)**: AI weekly meal planner on the Gemini API, bring-your-own-key and fully client-side ([code](https://github.com/Navneet-Rishav/NutriCraft))
