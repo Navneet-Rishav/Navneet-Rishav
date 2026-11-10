@@ -64,7 +64,7 @@
 |---|---|---|---|
 | **[Support Escalation Mesh](https://github.com/Navneet-Rishav/support-escalation-mesh)** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | ✅ [Live demo](https://support-escalation-mesh.vercel.app) |
 | **[Kaagaz (कागज़)](https://github.com/Navneet-Rishav/kaagaz)** | Hindi/English document assistant: FastAPI REST API with JWT auth and a Postgres job queue, Aadhaar/PAN masking before any LLM, field extraction with page refs, Q&A with code-checked citations | FastAPI · Postgres · React · TypeScript · Sarvam AI | ✅ [Live demo](https://kaagaz-pi.vercel.app) |
-| **Bolo (बोलो)** | Hinglish voice receptionist for clinics: book, reschedule or cancel appointments by voice | FastAPI · LangGraph · React · Sarvam STT/TTS | ⏳ Planned |
+| **[Bolo (बोलो)](https://github.com/Navneet-Rishav/bolo)** | Hinglish voice receptionist for clinics: LangGraph state machine with booking rules in code, DB-enforced no double booking, masked call transcripts with per-turn latency | FastAPI · LangGraph · React · Sarvam STT/TTS | 🛠️ In progress |
 
 ### Live now
 
