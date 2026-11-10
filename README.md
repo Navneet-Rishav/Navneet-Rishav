@@ -64,10 +64,11 @@
 |---|---|---|---|
 | **[Support Escalation Mesh](https://github.com/Navneet-Rishav/support-escalation-mesh)** | MERN support desk: Express REST API with JWT and role-based access, a React agent console with human approval, and AI ticket routing with code-enforced guardrails | MongoDB · Express · React · Node.js · TypeScript | ✅ [Live demo](https://support-escalation-mesh.vercel.app) |
 | **[Kaagaz (कागज़)](https://github.com/Navneet-Rishav/kaagaz)** | Hindi/English document assistant: FastAPI REST API with JWT auth and a Postgres job queue, Aadhaar/PAN masking before any LLM, field extraction with page refs, Q&A with code-checked citations | FastAPI · Postgres · React · TypeScript · Sarvam AI | ✅ [Live demo](https://kaagaz-pi.vercel.app) |
-| **[Bolo (बोलो)](https://github.com/Navneet-Rishav/bolo)** | Hinglish voice receptionist for clinics: LangGraph state machine with booking rules in code, DB-enforced no double booking, masked call transcripts with per-turn latency | FastAPI · LangGraph · React · Sarvam STT/TTS | 🛠️ In progress |
+| **[Bolo (बोलो)](https://github.com/Navneet-Rishav/bolo)** | Hinglish voice receptionist for clinics: LangGraph state machine with booking rules in code, DB-enforced no double booking, masked call transcripts with per-turn latency | FastAPI · LangGraph · React · Sarvam STT/TTS | ✅ [Live demo](https://bolo-liard.vercel.app) |
 
 ### Live now
 
+- **[Bolo](https://bolo-liard.vercel.app)**: Hinglish voice receptionist for clinics: book, reschedule or cancel by talking; staff calendar and masked call transcripts; one-click private demo clinic ([code](https://github.com/Navneet-Rishav/bolo))
 - **[Kaagaz](https://kaagaz-pi.vercel.app)**: Hindi/English document assistant: upload, PII masking, field extraction with page refs and Q&A with checked citations; one-click private demo account ([code](https://github.com/Navneet-Rishav/kaagaz))
 - **[Support Escalation Mesh](https://support-escalation-mesh.vercel.app)**: MERN support desk with JWT + role-based access, a React agent console and AI triage behind code guardrails; one-click demo login ([code](https://github.com/Navneet-Rishav/support-escalation-mesh))
 - **[NutriCraft](https://navneet-rishav.github.io/NutriCraft/)**: AI weekly meal planner on the Gemini API, bring-your-own-key and fully client-side ([code](https://github.com/Navneet-Rishav/NutriCraft))
