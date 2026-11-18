@@ -9,7 +9,7 @@
 
 - 🧑‍💻 Full stack developer: REST API design, JWT auth and role-based access, validation, tests and deployment, with React.js on the front end
 - 🔭 **Reporting Analyst, GenAI engineering team @ EXL Service**: I build backend REST services and real-time integrations for an AI product
-- 🎓 B.Tech, Information Technology, Lovely Professional University (2019–2023)
+- 🎓 B.Tech, Computer Science and Engineering, Lovely Professional University (2019–2023)
 - 🌱 Building three full-stack AI projects in public (see below)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/navneet-rishav-4a80b2192) or through my [Portfolio](https://its-navneetrishav.netlify.app)
 - ⚡ The bar for each project below: a live demo, tests, CI and a README you can read in 30 seconds
