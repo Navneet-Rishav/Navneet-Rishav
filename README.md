@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
 </a>
 <a href="https://its-navneetrishav.netlify.app" target="_blank">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjM1IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMS42Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJjMyAzLjIgMyAxNi44IDAgMjAtMy0zLjItMy0xNi44IDAtMjB6Ii8+PC9zdmc+Cg==" alt="portfolio" height="35" width="35" />
+  <img src="assets/portfolio.svg" alt="portfolio" height="35" width="35" />
 </a>
 </p>
 
